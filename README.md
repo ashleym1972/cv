@@ -1,6 +1,12 @@
 ### Ashley Martens
 
-2009 - Current	__ngmoco__
+2015 - Current          __Coinbase__
+* Started as a full stack engineer on the consumer product (https://www.coinbase.com). Trasnsitioned to Internal Tools team and am currently a Risk Engineer on Consumer.
+	* Ruby (RoR, MonogDB, Sidekiq)
+	* AWS DevOps using GeoEngineer based stack
+	* Various vendor integrations for AML and fraud assessments
+
+2009 - 2015	        __ngmoco__
 * Member of the Plus+/Mobage network (http://www.plusplus.com http://www.mobage.com) team developing server side software in Ruby on Rails using a REST framework.
 	* Ruby (RoR, Sinatra, Resque)
 	* MySQL, Cassandra, Redis, memcached
