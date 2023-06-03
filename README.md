@@ -1,7 +1,22 @@
 ### Ashley Martens
 
-2015 - Current          __Coinbase__
-* Started as a full stack engineer on the consumer product (https://www.coinbase.com). Trasnsitioned to Internal Tools team and am currently a Risk Engineer on Consumer.
+2015 - 2022          __Coinbase__
+* Fraud and Payment Engineer
+	* Developed new services outside legacy application to move functionality out of legacy application
+	* Responsible for various data services (GeoIP, account clustering) and pipelines (Kafka)
+	* Created new fraud tool in React to optimize fraud agent investigation times
+	* Worked on supporting existing payment services (ACH, Fedwire, etc)
+* Fraud and Data Engineer
+	* Create new and extend existing fraud controls in legacy RoR application
+	* Develop new fraud services outside existing legacy application
+	* Remodel existing legacy objects to onboard additional identity verification vendors
+	* Assisted in opimizing data pipelines to feed fraud detection AI models
+	* Intregated AB test frameworks into legacy application
+* Internal Tools Engineer
+	* Develop UI features in RoR legacy stack to improve efficiency of internal Compliance, Fraud and Customer Support agents
+	* Created new React based tool to allow Customer Support into onboard external call center agents
+* Full stack engineer on existing consumer product (https://www.coinbase.com).
+	* General website duties (new features, bug fixes, increase test coverage)
 	* Ruby (RoR, MonogDB, Sidekiq)
 	* AWS DevOps using GeoEngineer based stack
 	* Various vendor integrations for AML and fraud assessments
